@@ -81,7 +81,7 @@ class Main(QMainWindow, Ui_MainWindow):
         self.clearCampos()
 
     def mouseDoubleClickEvent(self, e):
-
+#DSDDSDSD
         if not self.ui.tx_A.text() and not self.ui.tx_B.text():
 
             for idx in self.ui.tb_Dados.selectionModel().selectedIndexes():
