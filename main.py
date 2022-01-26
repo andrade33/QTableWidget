@@ -83,7 +83,7 @@ class Main(QMainWindow, Ui_MainWindow):
     def mouseDoubleClickEvent(self, e):
 
         if not self.ui.tx_A.text() and not self.ui.tx_B.text():
-
+            #dsfgsdgsdgsfgsgsdg
             for idx in self.ui.tb_Dados.selectionModel().selectedIndexes():
                 self.ui.tx_A.setText(str(idx.row()))
                 self.ui.tx_B.setText(str(idx.column()))
