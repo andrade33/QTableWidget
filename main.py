@@ -42,6 +42,7 @@ class Main(QMainWindow, Ui_MainWindow):
 
     def populate_table_Widget(self):
 
+
         self.ui.tb_Dados.clear()
         self.ui.tb_Dados.setColumnCount(3)
 
