@@ -2,7 +2,7 @@
 from datetime import date
 import calendar
 
-#DDDDDDDDDDDDDDD
+
 class DataAtual(object):
 
     def __init__(self, diames="", diasemana="",
