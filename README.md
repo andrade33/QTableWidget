@@ -1,4 +1,4 @@
-# Prejeto para a dio
+# Projeto para a dio
 
 ## QTableWidget
 Inicial
